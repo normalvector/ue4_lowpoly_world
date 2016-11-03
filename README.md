@@ -1,3 +1,3 @@
-bnaba
-# ue4_lowpoly_world
-A project demonstrating the implementation of a lowpoly world environment using UE4.
+# UE4 Low-Poly World
+
+This is an Unreal Engine 4 implementation of a low-poly globe intended to accompany my tutorial series.
